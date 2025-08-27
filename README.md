@@ -1,9 +1,3 @@
-Oke, aku buatin draft **README GitHub** untuk dokumentasi proyek *Monitoring Tugas* berdasarkan flowchart dan use case diagram yang kamu kasih.
-
-Berikut contohnya:
-
----
-
 # 📌 Monitoring Tugas
 
 Monitoring Tugas adalah sebuah sistem untuk memantau, mengelola, dan menyelesaikan tugas secara terstruktur. Sistem ini dirancang agar proses pencatatan, pengecekan status, serta pembaruan progres tugas lebih mudah dan terorganisir.
