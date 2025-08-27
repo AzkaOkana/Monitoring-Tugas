@@ -10,19 +10,6 @@ Monitoring Tugas adalah sebuah sistem untuk memantau, mengelola, dan menyelesaik
 * 🔄 **Update progres & catatan tugas**
 * ✅ **Menandai tugas selesai**
 * 👀 **Memantau status tugas secara berkala**
-
-## 🔹 Flowchart Sistem
-
-Berikut adalah alur monitoring tugas:
-
-![Flowchart](Flowchart%20Monitoring%20Tugas%20\(1\).png)
-
-## 🔹 Use Case Diagram
-
-Berikut adalah use case diagram dari sistem monitoring tugas:
-
-![Use Case](Diagram%20Use%20Case%20monitoring%20tugas.drawio%20-%20Salin.png)
-
 ## 🔹 Alur Kerja Singkat
 
 1. **Mulai Monitoring**
